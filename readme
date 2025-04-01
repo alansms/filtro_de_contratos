@@ -45,3 +45,18 @@ O **Filtro de Contratos** é uma ferramenta web interativa desenvolvida em Pytho
 1. Clone este repositório:
    ```bash
    git clone https://github.com/seu-usuario/filtro-de-contratos.git
+
+pip install -r requirements.txt
+
+streamlit run app.py
+
+	4.	Acesse o aplicativo no seu navegador (geralmente em http://localhost:8501).
+
+Acesse o App Online
+
+Acesse a versão online do aplicativo no Streamlit: https://filtrodecontratos.streamlit.app/
+
+Filtro de Contratos - Streamlit App
+
+
+
